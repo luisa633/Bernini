@@ -1,0 +1,90 @@
+{ 
+  "itinerario": {
+    "titolo": "Bernini: Tra Acqua e Marmo",
+    "descrizione": "Un percorso unico tra le fontane più iconiche di Roma, alla scoperta del genio che ha trasformato la città in un palcoscenico d'arte.",
+    "lunghezza": "2.8 km",
+    "orari_consigliati": "10:30 - 18:00"
+  },
+  "tappe": [
+    {
+      "nome": "Fontana del Tritone",
+      "immagine": "https://www.turismoroma.it/sites/default/files/Fontana%20del%20Tritone_1920x1080.JPG",
+      "coord": "41.9030,12.4889",
+      "desc": "Qui Bernini rompe la staticità: il Tritone emerge e soffia verso l'alto, sfidando la gravità. Non è solo una fontana decorativa, è un gesto teatrale. L'acqua diventa azione, respiro, energia che inagura il percorso.",
+      "tecnica": "L'assenza di un pilastro centrale massiccio crea un effetto di leggerezza assoluta, sorretto solo dalle code intrecciate dei delfini.",
+      "curiosita": "È stata la prima fontana urbana di Roma a rompere con la tradizione delle 'mostre' d'acqua piatte.",
+      "servizi": ["Metro Barberini", "Caffè Storici", "Taxi", "Nasoni", "Negozi", "Ristoranti","Bus Stop","servizi igienici"],
+      "photo": "Inquadra dal basso verso l'alto per catturare il momento esatto in cui l'acqua incontra il cielo.",
+      "spotify": "https://open.spotify.com/embed/track/0NkRoAEwe5gmoX7Ps8pCa7?si=9b75666df4bf4f5b",
+      "accessibilita": {
+        "ingresso": "libero, 24/7",
+        "affollamento": "elevato nelle ore centrali"
+      },
+      "letteratura": {
+      "testo":  "la pietra di Bernini corrosa dal tempo e dalle acque, brillava singolarmente al sole come se i delfini, la conchiglia e il tritone fosser divenuti d'una materia più diafana, non pietra e non ancor cristallo",
+      "autore": "Gabriele D'Annunzio, Il Piacere",
+      "connessione": "D'Annunzio descrive la fontana del Tritone come un'opera che sembra sospesa tra la solidità del marmo e la leggerezza dell'acqua, creando un'immagine di bellezza eterea e quasi magica, proprio come se fosse fatta di una materia più diafana, non completamente solida né completamente liquida."
+      }
+    },
+    {
+      "nome": "Fontana della Barcaccia",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Barcaccia_e_scalinata.jpg/960px-Barcaccia_e_scalinata.jpg",
+      "coord": "41.9060,12.4827",
+      "desc": "Con la Barcaccia, Bernini (insieme al padre) abbassa lo sguardo: l'acqua non esplode, ma affiore. La barca sembra affondare, dialogando con la città reale. E' l'inizio del rapporto tra scultura e contrasto urbano.",
+      "tecnica": "Ingegneria d'emergenza: scavata sotto il livello stradale per gestire la scarsissima pressione dell'acquedotto.",
+      "curiosita": "Le api scolpite sulla barca sono il simbolo araldico della famiglia Barberini.",
+      "servizi": ["Metro Spagna", "Negozzi", "Nasoni","ristoranti", "bar", "servizi igienici"],
+      "photo": "Posizionati lateralmente per vedere il velo d'acqua che scivola uniformemente sui bordi di marmo.",
+      "spotify": "https://open.spotify.com/embed/track/51Z0G9wCaGl2pcBISoJu9x?si=e71a53f3be234d4a", 
+      "accessibilita": {
+        "ingresso": "libero, 24/7",
+        "affollamento": "elevato nelle ore centrali"
+      },
+      "letteratura": {
+        "testo": "La fontana della Barcaccia, con la sua forma bassa e larga, sembra una barca che si è adagiata dolcemente sul fondo, come se il tempo stesso avesse voluto preservare quel momento di quiete eterna",
+        "autore": "Gabriele D'Annunzio, Il Piacere",
+        "connessione": "D'Annunzio descrive la fontana della Barcaccia come un'opera che sembra sospesa tra la solidità del marmo e la leggerezza dell'acqua, creando un'immagine di bellezza eterea e quasi magica, proprio come se fosse fatta di una materia più diafana, non completamente solida né completamente liquida."
+      } 
+    },
+    {
+      "nome": "Fontana dei Quattro Fiumi",
+      "immagine": "https://www.archeoroma.it/wp-content/uploads/2019/10/fontana-dei-quattro-fiumi-piazza-navona.jpg",
+      "coord": "41.8989,12.4731",
+      "desc": "Qui arriva il culmine: lo spazzio si apre e la scultura diventa mondo. I fiumi si muovono, reagiscono, dialogano tra loro. Bernini trasforma la piazza in un palcoscenico globale dove natura e potere si intrecciano.",
+      "tecnica": "L'obelisco poggia su una roccia traforata: una sfida estrema alle leggi della statica e della percezione.",
+      "curiosita": "Bernini ottenne l'incarico mostrando un modello in argento talmente bello da incantare Donna Olimpia.",
+      "servizi": ["Artisti", "Ristoranti", "Bus Stop","Nasoni"],
+      "photo": "Scatta attraverso l'arco della roccia per incorniciare gli angoli barocchi della piazza.",
+      "spotify": "https://open.spotify.com/embed/track/2aGVaPv3LqzTLkyw4qrPKn?si=1c658d2337ff4e04",
+      "accessibilita": {
+        "ingresso": "libero, 24/7",
+        "affollamento": "elevato nelle ore centrali"
+      },
+      "letteratura": {
+        "testo": "La fontana dei Quattro Fiumi, con la sua struttura monumentale, rappresenta un'opera d'arte che unisce la grandezza classica alla maestria barocca",
+        "autore": "Gabriele D'Annunzio, Il Piacere",
+        "connessione": "D'Annunzio descrive la fontana dei Quattro Fiumi come un'opera che sembra sospesa tra la solidità del marmo e la leggerezza dell'acqua, creando un'immagine di bellezza eterea e quasi magica, proprio come se fosse fatta di una materia più diafana, non completamente solida né completamente liquida."
+      }
+    },
+    {
+      "nome": "Ponte Sant'Angelo",
+      "immagine": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Roma_-_Ponte_s._Angelo.jpg/960px-Roma_-_Ponte_s._Angelo.jpg",
+      "coord": "41.9018,12.4663",
+      "desc": "Il percorso si chiude in movimento: non più una fontana, ma un ponte che collega il mondo terrestre a quello celeste. Gli angeli accompagnano il passaggio, rendendo il cammino un esperienza emotiva e spirituale. Bernini guida lo spettatore, non lo lascia fermo.",
+      "tecnica": "Panneggio 'volante': il marmo è scolpito così sottile da sembrare tessuto mosso dal vento reale del fiume.",
+      "curiosita": "Gli angeli originali di Bernini sono oggi conservati nella chiesa di Sant'Andrea delle Fratte.",
+      "servizi": ["Castel S.Angelo", "Bookshop", "Panorama", "bus stop"],
+      "photo": "Vieni all'ora blu: la luce calda del castello contrasta perfettamente con il marmo freddo degli angeli.",
+      "spotify": "https://open.spotify.com/embed/track/4zb0g3sxejRXrx3SPVcOHU?si=4f9996727c354592",
+      "accessibilita": {
+        "ingresso": "libero, 24/7",
+        "affollamento": "elevato nelle ore centrali"
+      },
+      "letteratura": {
+        "testo": "Il ponte Sant'Angelo, con la sua struttura monumentale, rappresenta un'opera d'arte che unisce la grandezza classica alla maestria barocca",
+        "autore": "Gabriele D'Annunzio, Il Piacere",
+        "connessione": "D'Annunzio descrive il ponte Sant'Angelo come un'opera che sembra sospesa tra la solidità del marmo e la leggerezza dell'acqua, creando un'immagine di bellezza eterea e quasi magica, proprio come se fosse fatta di una materia più diafana, non completamente solida né completamente liquida."
+      }
+    }
+  ]
+}
